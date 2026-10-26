@@ -2,6 +2,10 @@
 
 AI 이미지 생성, 작업 프로젝트와 레퍼런스 보드를 관리하는 Windows 앱입니다.
 
+## 영상
+
+[▶ AM Tool 영상 보기 (YouTube)](https://www.youtube.com/watch?v=m6mN5mLZT6s)
+
 ## 다운로드
 
 [최신 버전 다운로드](https://github.com/trackk81/am-tool/releases/latest)에서 `amtool-2.6.32-Windows-x64.zip`을 내려받으세요.
