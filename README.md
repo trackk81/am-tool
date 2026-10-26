@@ -4,7 +4,9 @@ AI 이미지 생성, 작업 프로젝트와 레퍼런스 보드를 관리하는 
 
 ## 영상
 
-[▶ AM Tool 영상 보기 (YouTube)](https://www.youtube.com/watch?v=m6mN5mLZT6s)
+[![AM Tool 소개 영상](https://i.ytimg.com/vi/m6mN5mLZT6s/hqdefault.jpg)](https://www.youtube.com/watch?v=m6mN5mLZT6s)
+
+▶ 위 이미지를 클릭하면 YouTube에서 영상이 재생됩니다.
 
 ## 다운로드
 
